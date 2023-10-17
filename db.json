@@ -1,4 +1,4 @@
-data: [
+{data: [
   {
     "key": 1,
     "title": "Product 1",
@@ -60,3 +60,4 @@ data: [
     "description": "Description of Product 10"
   }
 ]
+}
